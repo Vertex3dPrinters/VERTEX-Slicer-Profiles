@@ -2,7 +2,7 @@
 
 ## Download the latest release ##
 
-Use this link to download the latest release of our profiles
+Use [this link](https://github.com/Vertex3dPrinters/VERTEX-PrusaSlicer-Profiles/releases/latest) to download the latest release of our profiles
 
 ## Uncompress the profiles in the correct path ##
 
