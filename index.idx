@@ -1,4 +1,5 @@
 min_slic3r_version = 2.3.0-rc1
+0.1.10 Added the movement to Z 0.20 before start to print
 0.1.9 Added the movement to Z 3mm while the nozzle is heating from 170º to print temperature
 0.1.8 Corrected the behaviour relative to the select of current for E axis, change the default color of VERTEX PETG
 0.1.7 Changed the print profiles to @VERTEX instead of @XL, the printers models has been updated, the VERTEX PETG is now compatible with all vendors
