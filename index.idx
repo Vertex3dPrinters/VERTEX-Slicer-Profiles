@@ -1,4 +1,5 @@
 min_slic3r_version = 2.3.0-rc1
+0.1.8 Corrected the behaviour relative to the select of current for E axis, change the default color of VERTEX PETG
 0.1.7 Changed the print profiles to @VERTEX instead of @XL, the printers models has been updated, the VERTEX PETG is now compatible with all vendors
 0.1.6 VERTEX PETG filament has been added
 0.1.5 Wipe tower relocated
