@@ -1,19 +1,16 @@
 # How to add the VERTEX's profiles
 
-## Download the latest release ##
+## Download the latest release of SuperSlicer ##
 
-Use [this link](https://github.com/Vertex3dPrinters/VERTEX-PrusaSlicer-Profiles/releases/latest) to download the latest release of our profiles
+Use [this link](https://github.com/supermerill/SuperSlicer/releases/latest) to download the latest release of SuperSlicer
 
-## Uncompress the profiles in the correct path ##
+## Is available for Windows, MacOS, and Linux ##
 
-You will need to uncompress the profiles files in the correct path.
-
-* On **Windows** the path should be `C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles`
-* On **MACOS** the path should be `/Applications/Original Prusa Drivers/PrusaSlicer.app/Contents/Resources/profiles`
+Download the version required by your architecture.
 
 ## Adding the machines ## 
 
-Open the "Configuration Wizzard" and select "Other Vendors" --> "Vertex" like in the following image.
+Open the "Configuration Wizzard" and select **"Vertex"** like in the following image.
 
 ![Add Vertex FFF](/images/add_vertex_fff.png)
 
@@ -27,4 +24,4 @@ Finally **be sure** that you have selected the **VERTEX PETG Filament**
 
 That's all, now you can enjoy of your VERTEX 3d experience.
 
-![VERTEX PrusaSlicer](/images/vertex_prusaslicer.png)
+![VERTEX SuperSlicer](/images/vertex_superslicer.png)
