@@ -1,4 +1,5 @@
 min_slic3r_version = 2.3.0-rc1
+0.1.19 The relation between nozzle 0.8 and profiles has been fixed, added the new firmware version to the M115
 0.1.18 Corrected bridge_flow_ratio
 0.1.17 Corrected a bug related with the Z lift
 0.1.16 Remember update the FW to the v3.10.0
